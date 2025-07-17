@@ -13,7 +13,7 @@ required_packages = ['pyperclip', 'openai', 'pyautogui', 'pygame']
 DEPS_MARKER_FILE = ".deps_installed"
 
 print("\033c", end="")
-print("MCBot v2.5.0")
+print("MCBot v2.0")
 print("作者：apanzinc，寄鑲鷡。本程序使用Eclipse Public License - v 2.0开源。")
 print("——————————————————————")
 print(" ")
